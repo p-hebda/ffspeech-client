@@ -1,6 +1,6 @@
 {
   "name": "ffspeech-client",
-  "homepage": ".",
+  "homepage": "https://www.fluentfoundations.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
