@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ffspeech-client/static/css/main.073c9b0a.css",
+    "main.js": "/ffspeech-client/static/js/main.7643d674.js",
+    "static/js/787.083e9dd8.chunk.js": "/ffspeech-client/static/js/787.083e9dd8.chunk.js",
+    "static/media/logo.svg": "/ffspeech-client/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ffspeech-client/index.html",
+    "main.073c9b0a.css.map": "/ffspeech-client/static/css/main.073c9b0a.css.map",
+    "main.7643d674.js.map": "/ffspeech-client/static/js/main.7643d674.js.map",
+    "787.083e9dd8.chunk.js.map": "/ffspeech-client/static/js/787.083e9dd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7643d674.js"
+  ]
+}
