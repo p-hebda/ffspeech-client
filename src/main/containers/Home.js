@@ -1,29 +1,14 @@
 import '../../App.css';
 import React from 'react';
-import logo from '../../logo.svg';
-import {Link} from "react-router-dom";
 
 class Home extends React.Component {
     render() {
         return (
-            <div className="App">
-                <header className="App-header">
-                    <img src={logo} className="App-logo" alt="logo" />
-                    <p>
-                        Edit <code>src/App.js</code> and save to reload.
-                    </p>
-                    <a
-                        className="App-link"
-                        href="https://reactjs.org"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                    >
-                        Learn React
-                    </a>
-                    <Link to="/about">About</Link>
-                </header>
-            </div>
-
+            <React.Fragment>
+                <div style={{textAlign: "center", paddingTop: "80px"}}>
+                    <img src={'../../logo.svg'} alt="logo" width="25%" height="25%"/>
+                </div>
+            </React.Fragment>
         );
     }
 
